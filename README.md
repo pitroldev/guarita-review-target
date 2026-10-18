@@ -1,6 +1,6 @@
 # Guarita review target
 
-Static, fictional test fixture operated by Guarita at https://review-target.guarita.dev.
+Static, fictional test fixture operated by Guarita at https://guarita-review.bizzye.dev.
 
 This repository contains only the technical test page, its custom-domain configuration and a public ownership proof when provisioned. It contains no Guarita application source, credentials, account IDs, scan reports, customer information, billing code or reviewer passwords.
 
